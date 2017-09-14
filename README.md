@@ -1,3 +1,1 @@
-# Hello-World
-
-Hey everyone, this is my first edit.
+Contained are autoencoder attempts i've been experimenting with.
